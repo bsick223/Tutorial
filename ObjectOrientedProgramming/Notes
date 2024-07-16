@@ -1,0 +1,23 @@
+- object is an instance of a class
+
+- objects are just like real life, object.
+    - we can assign attributes = is/has
+    - ex. name, age, height
+
+- in order to create an object we need a class -
+
+A class can function as a blueprint to create objects
+    - Assign attributes
+        Assign what an object is
+    - Methods
+        What each object can do
+    - innit method
+        pass in arguments and assign the arguments to each objects attributes
+    - goal is to use class as a blueprint to create more objects.
+
+Steps:
+#1 Make a class
+#2 initialize the constructor
+#3 assign attributes to the objects
+#4 make some methods
+#5 make objects with attributes in main method
